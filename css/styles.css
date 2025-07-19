@@ -1,28 +1,14 @@
 
-/*font-family "Roboto",sans-serif;
-font-family "Raleway",sans-serif;*/
-
-
 body {
 color: #434455;
 background-color: #fff;
 font-family: "Roboto",sans-serif;
 }
-
 ul, ol{
 list-style-type: none;
 }
-
 a{
     text-decoration: none;
-}
-
-.page-header{
-
-}
-
-.header-nav{
-
 }
 .logo{
     font-weight: 700;
@@ -36,12 +22,6 @@ a{
 .header-logo .logo-link-header{
     color: #2e2f42;
 }
-.nav-list{
-
-}
-.nav-item{
-
-}
 .nav-link{
     font-weight: 500;
     font-size: 16px;
@@ -51,12 +31,6 @@ a{
 }
 .contacts{
     font-style: normal;
-}
-.contacts-list{
-
-}
-.contacts-item{
-
 }
 .contacts-link{
     font-size: 16px;
@@ -69,82 +43,6 @@ a{
 .contacts-link:hover,
 .contacts-link:focus{
     color: #404bbf;
-}
-
-.hero{
-
-}
-.hero-title{
-
-}
-.hero-button{
-
-}
-.benefits{
-
-}
-.benefits-list{
-
-}
-.benefits-item{
-
-}
-.benefits-item-title{
-
-}
-.benefits-text{
-
-}
-
-
-.team{
-
-}
-.team-title{
-
-}
-.team-list{
-
-}
-.team-item{
-
-}
-.team-images {
-
-}
-.team-images-title {
-
-}
-.team-text{
-
-}
-
-
-.portfolio{
-
-}
-.portfolio-title{
-
-}
-.portfolio-list{
-
-}
-.portfolio-item{
-
-}
-.portfolio-item-images{
-
-}
-.portfolio-images-title{
-
-}
-.portfolio-text{
-
-}
-
-
-.footer{
-
 }
 .footer-logo .logo-link-footer{
 color: #f4f4fd;
