@@ -1,0 +1,139 @@
+
+/*font-family "Roboto",sans-serif;
+font-family "Raleway",sans-serif;*/
+
+
+body {
+color: #434455;
+background-color: #fff;
+font-family: "Roboto",sans-serif;
+}
+
+ul, ol{
+list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+.page-header{
+
+}
+
+.header-nav{
+
+}
+.logo-link{
+
+}
+.logo-link-header{
+
+}
+.nav-list{
+
+}
+.nav-item{
+
+}
+.nav-link{
+
+}
+.contacts{
+
+}
+.contacts-list{
+
+}
+.contacts-item{
+
+}
+.contacts-link{
+
+}
+
+
+.hero{
+
+}
+.hero-title{
+
+}
+.hero-button{
+
+}
+.benefits{
+
+}
+.benefits-list{
+
+}
+.benefits-item{
+
+}
+.benefits-item-title{
+
+}
+.benefits-text{
+
+}
+
+
+.team{
+
+}
+.team-title{
+
+}
+.team-list{
+
+}
+.team-item{
+
+}
+.team-images {
+
+}
+.team-images-title {
+
+}
+.team-text{
+
+}
+
+
+.ourportfolio{
+
+}
+.ourportfolio-title{
+
+}
+.ourportfolio-list{
+
+}
+.ourportfolio-item{
+
+}
+.ourportfolio-item-images{
+
+}
+.ourportfolio-images-title{
+
+}
+.ourportfolio-text{
+
+}
+
+.footer {
+
+}
+.logo-link-footer {
+
+}
+.footer-text {
+    
+}
+
+
+
+
