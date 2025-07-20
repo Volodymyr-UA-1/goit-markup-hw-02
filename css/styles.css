@@ -1,5 +1,4 @@
-
-body {
+body{
 color: #434455;
 background-color: #fff;
 font-family: "Roboto",sans-serif;
@@ -62,8 +61,6 @@ a{
     letter-spacing: 0.04em;
     color: #fff;
     background-color: #4d5ae5;
-    width: 169px;
-    height: 56px;
 }
 .hero-button:hover,
 .hero-button:focus{
@@ -96,12 +93,11 @@ a{
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
+    text-align: center;
     color: #2e2f42;
 }
 .team-item{
     background-color: #fff;
-    width: 264px;
-    height: 380px;
 }
 .team-images-title,
 .team-text{
@@ -109,8 +105,6 @@ a{
 }
 .portfolio-item{
     background: #fff;
-    width: 360px;
-    height: 420px;
 }
 .footer{
     background-color: #2e2f42;
